@@ -113,4 +113,4 @@ gantt
 
 ## Examination Strategy
 
-When preparing for your exam, validate your understanding using the [CCAO-F certification exam](https://certsclub.com/nutanix/ccao-f-demo-practice-questions) practice questions to ensure readiness across all Nutanix Associate domains.
+When preparing for your exam, validate your understanding using the [CCAO-F certification exam](https://www.certsclub.com) practice questions to ensure readiness across all Nutanix Associate domains.
